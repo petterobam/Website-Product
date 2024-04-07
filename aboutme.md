@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我
-subtitle: 我可以用于什么地方？
+title: 我可以用于什么地方？
+subtitle: 产品理念和使用场景&迭代记录
 ---
 
 从零开始，构建你的一切。
