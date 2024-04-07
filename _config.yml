@@ -20,6 +20,7 @@ author: zero2you
 ###############################################
 
 navbar-links:
+  下载: "https://www.zero2you.tech"
   关于我: "aboutme"
   相关:
     - "问题<br/>Issue": "https://issue-zh.zero2you.tech"
