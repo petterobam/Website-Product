@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 我可以用于什么地方？
+title: 我可以做什么？
 subtitle: 产品理念和使用场景&迭代记录
 ---
 
