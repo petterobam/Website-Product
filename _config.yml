@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Z2y Editor&Manager
+title: "Z2Y Editor&Manager"
 
 # Your name to show in the footer
 author: zero2you
@@ -22,10 +22,10 @@ author: zero2you
 navbar-links:
   关于我: "aboutme"
   相关:
-    - 问题（Issue）: "https://issue-zh.zero2you.tech"
-    - 博客（Blog）: "https://blog-zh.zero2you.tech"
-    - 品牌（Brand）: "https://brand-zh.zero2you.tech"
-  作者主页: "https://www.petterobam.cn"
+    - "问题<br/>Issue": "https://issue-zh.zero2you.tech"
+    - "博客<br/>Blog": "https://blog-zh.zero2you.tech"
+    - "品牌<br/>Brand": "https://brand-zh.zero2you.tech"
+  作者主页: "https://github.com/petterobam"
 
 ################
 # --- Logo --- #
